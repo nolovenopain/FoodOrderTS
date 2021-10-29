@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-FoodOrderTS-FoodOrderTSTests/Pods-FoodOrderTS-FoodOrderTSTests-resources.sh
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Stripe/Stripe.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Stripe/Stripe3DS2.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeCore/StripeCore.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/StripeUICore/StripeUICore.bundle
